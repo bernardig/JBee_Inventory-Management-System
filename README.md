@@ -105,5 +105,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE)file f
 
 ---
 
-Thank you for visiting the Global Wild Swimming and Camping Website. We hope you find it a valuable resource for your outdoor adventures!
+Thank you for visiting JBee_Inventory-Management-Systemt. We hope you find it a valuable resource for your academy needs!
 
