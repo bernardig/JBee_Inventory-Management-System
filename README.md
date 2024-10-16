@@ -79,7 +79,7 @@ The most difficult non-technical challenge was coordinating with a remote team. 
 
 ### Completed as Planned
 
-- Development of core features: location database, user accounts, search and filters, reviews and ratings, photo uploads, and basic community features.
+- Development of core features: user dashboard, user accounts, Add categories and brands, Add new products, Allotment Tracking, and User Requests features.
 - Successful deployment of the website.
 - User testing and feedback collection.
 
